@@ -1,6 +1,6 @@
 # Qwen3 Forced Aligner — Audio-Text Alignment with Word/Character-Level SRT
 
-**English**
+**English** | [简体中文](README_Cn.md)
 
 ![Python](https://img.shields.io/badge/Python-3.13-3776AB?logo=python&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-6.5.1-FF7C00?logo=gradio&logoColor=white)
