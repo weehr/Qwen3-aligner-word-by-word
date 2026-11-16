@@ -1,0 +1,22 @@
+# 模型权重（约 1.75 GB，需按 README 手动下载）
+
+# 运行产物
+.gradio/
+
+# Python
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+
+# 日志与临时文件
+*.log
+*.tmp
+
+# IDE / 操作系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

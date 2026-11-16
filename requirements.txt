@@ -1,0 +1,21 @@
+# Python 3.13 / Windows / RTX 4090
+# 安装: python -m pip install -r requirements.txt
+# 启动: python app_gradio.py
+
+# PyTorch（必须是 CUDA 12.6 版本；若当前为 CPU 版，请先单独重装 torch）
+--extra-index-url https://download.pytorch.org/whl/cu126
+torch==2.12.1
+
+# Qwen3 强制对齐模型（会锁定 transformers==4.57.6、accelerate==1.12.0 等）
+qwen-asr==0.0.6
+
+# Gradio 网页界面
+gradio==6.5.1
+
+# 音频解码
+librosa==0.11.0
+soundfile==0.13.1
+numpy==2.4.4
+
+# 进度显示
+tqdm>=4.66
