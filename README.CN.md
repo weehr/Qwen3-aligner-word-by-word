@@ -269,4 +269,4 @@ ffmpeg -version
 
 本项目采用 Apache License 2.0，详见 [LICENSE](LICENSE) 与 [NOTICE](Qwen3-aligner/NOTICE)。
 
-Qwen3-ForcedAligner-0.6B 由阿里云提供，采用 Apache License 2.0。对齐实现基于 surfincanoy/Qwen3-aligner 项目。FireRedVAD 仍作为可选的 VAD 依赖保留署名，详见 [NOTICE](Qwen3-aligner/NOTICE)。
+Qwen3-ForcedAligner-0.6B 由阿里云提供，采用 Apache License 2.0。对齐实现基于 surfincanoy/Qwen3-aligner 项目。
