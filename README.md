@@ -279,4 +279,4 @@ If the command is not recognized, install FFmpeg and add its `bin` directory to 
 
 This project is licensed under the Apache License 2.0. See [LICENSE](LICENSE) and [NOTICE](Qwen3-aligner/NOTICE).
 
-Qwen3-ForcedAligner-0.6B is provided by Alibaba Cloud under the Apache License 2.0. The alignment implementation is based on the surfincanoy/Qwen3-aligner project. 
+Qwen3-ForcedAligner-0.6B is provided by Alibaba Cloud under the Apache License 2.0. The alignment implementation is based on the [surfincanoy/Qwen3-aligner](https://github.com/surfincanoy/Qwen3-aligner) project. 
