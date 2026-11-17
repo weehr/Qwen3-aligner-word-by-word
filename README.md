@@ -29,7 +29,7 @@ The app runs on Windows, supports NVIDIA GPU acceleration with automatic CPU fal
 | Python | 3.13 (the tested and pinned configuration) |
 | OS | Windows (tested); Linux/macOS should work with matching PyTorch wheels |
 | FFmpeg | Required, must be available on `PATH` |
-| GPU | Optional NVIDIA GPU; tested with RTX 4090 and CUDA 12.6 |
+| GPU | Optional NVIDIA GPU |
 | RAM | Enough memory for the loaded audio and model; longer audio uses more RAM |
 | Disk | About 2 GB for the model and dependencies |
 
