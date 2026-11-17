@@ -29,7 +29,7 @@
 | Python | 3.13（本项目环境版本） |
 | 操作系统 | Windows（已验证）；Linux/macOS 需安装对应平台的 PyTorch |
 | FFmpeg | 必需，且已加入 `PATH` |
-| GPU | 可选；已验证 RTX 4090 + CUDA 12.6 |
+| GPU | 可选 |
 | 内存 | 需容纳完整音频和模型；音频越长占用越高 |
 | 磁盘 | 模型与依赖约 2 GB |
 
