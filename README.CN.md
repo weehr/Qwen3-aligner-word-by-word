@@ -96,7 +96,7 @@ chat_template.json
 ## 安装
 
 ```powershell
-git clone <YOUR_REPOSITORY_URL>
+git clone https://github.com/weehr/Qwen3-aligner-word-by-word.git
 cd Qwen3-aligner-word-by-word
 python -m pip install -r requirements.txt
 ```
